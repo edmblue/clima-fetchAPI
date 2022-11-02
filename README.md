@@ -1,4 +1,4 @@
-I'm amazed on how everything workds this days
+I'm amazed on how everything works this days
 
 It was amazing to know how Fetch API works
 
